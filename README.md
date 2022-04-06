@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
 <p align="center"><img src="https://c.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" />
 </p>
+<h3 align="center">A passionate developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-nvr&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-nvr" /> </p>
 
