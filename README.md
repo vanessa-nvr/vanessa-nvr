@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanessa</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanessa-nvr&label=Profile%20views&color=0e75b6&style=flat" alt="vanessa-nvr" /> </p>
 
