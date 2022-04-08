@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vanessa-navarro-b02b24213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanessa-navarro-b02b24213" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vanessa.nvrr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
