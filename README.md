@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanessa-nvr" alt="vanessa-nvr" /></a> </p>
 
+- 🔭 I’m currently working on **ConectElas** <a href="https://github.com/conectelas"/></a>
+
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Java, Python and MySQL.**
